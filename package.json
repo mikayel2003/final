@@ -13,6 +13,7 @@
     "express-rate-limit": "^2.9.0",
     "limiter": "^1.1.2",
     "request": "^2.81.0",
-    "request-rate-limiter": "^1.0.2"
+    "request-rate-limiter": "^1.0.2",
+    "tor-request": "^1.0.6"
   }
 }
